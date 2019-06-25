@@ -50,7 +50,7 @@
     "test": "cross-env NODE_ENV=test ava test/tests.js --verbose"
   },
   "dependencies": {
-    "@pokusew/pcsclite": "github:zy4/node-pcsclite.git#node12compat"
+    "@pokusew/pcsclite": "github:jimmythesaint82/node-pcsclite.git#node_12_changes"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
